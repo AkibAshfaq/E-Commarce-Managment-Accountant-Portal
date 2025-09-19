@@ -16,7 +16,7 @@
             $_SESSION['department'] = $row['Employee_Department'];
             $_SESSION['joiningdate'] = $row['Employee_Joining_Date'];
         }
-        header("Location: ../view/Profile.php");
+        header("Location: ../view/AccountantDashBoard.php");
     } else {
         echo "0 results";
     }
