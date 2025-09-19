@@ -1,0 +1,51 @@
+.chartcontainer{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    width: 420px;
+    height: 160px;
+}
+
+
+div.Sidebar{
+    background-color: rgb(215, 209, 226);
+    width: 20vw;
+    height: 100vh;
+    float: left;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid white;
+    position: fixed;
+}
+
+.pagecontainer{
+    margin-left: 20%;
+    padding: 20px;
+    background-color: rgb(255,255,255);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+a{
+    display: block;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+.chartDiv{
+
+    background-color: whitesmoke;
+    width: 100%;
+    min-width: 660px;
+    height: 380px;
+    padding: 20px;
+    border-radius: 10px;
+}
