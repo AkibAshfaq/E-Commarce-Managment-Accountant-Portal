@@ -8,12 +8,12 @@
 <img src="./Accountant/Assets/ForGitReadme/SalesChart.png" alt="Customer Home" width="31%"/>
 <img src="./Accountant/Assets/ForGitReadme/Orders.png" alt="Add to cart" width="31%"/>
 <br/>
-<img src="./Accountant/Assets/ForGitReadme/Invoice.png" alt="Cart" width="15%"/>
-<img src="./Accountant/Assets/ForGitReadme/Invoice2.png" alt="Cart" width="15%"/>
-<img src="./Accountant/Assets/ForGitReadme/Expense1.png" alt="Choose Payment" width="15%"/>
-<img src="./Accountant/Assets/ForGitReadme/Expense2.png" alt="Choose Payment" width="15%"/>
-<img src="./Accountant/Assets/ForGitReadme/Salary.png" alt="Admin Login" width="15%"/>
-<img src="./Accountant/Assets/ForGitReadme/Profile.png" alt="HR Login" width="15%"/>
+<img src="./Accountant/Assets/ForGitReadme/Invoice.png" alt="Cart" width="15.5%"/>
+<img src="./Accountant/Assets/ForGitReadme/Invoice2.png" alt="Cart" width="15.5%"/>
+<img src="./Accountant/Assets/ForGitReadme/Expense1.png" alt="Choose Payment" width="15.5%"/>
+<img src="./Accountant/Assets/ForGitReadme/Expense2.png" alt="Choose Payment" width="15.5%"/>
+<img src="./Accountant/Assets/ForGitReadme/Salary.png" alt="Admin Login" width="15.5%"/>
+<img src="./Accountant/Assets/ForGitReadme/Profile.png" alt="HR Login" width="15.5%"/>
 
 </div>
 
