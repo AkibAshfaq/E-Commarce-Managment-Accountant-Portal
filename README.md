@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Management & Accountant Portal
-
+---
 ---
 <div align="center">
 
