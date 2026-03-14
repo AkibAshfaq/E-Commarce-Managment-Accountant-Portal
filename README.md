@@ -30,6 +30,7 @@ Key Features include:
 - Modular layout ready for expansion into full business management  
 
 ---
+
 ## 🎯 Target Audience  
 - Small/medium-sized e-commerce merchants  
 - Accountants managing online transactions  
