@@ -1,5 +1,6 @@
 # 🛒 E-Commerce Management & Accountant Portal
 ---
+---
 <div align="center">
 
 <!-- 🔹 Project Screenshots (Auto Adjustable) -->
